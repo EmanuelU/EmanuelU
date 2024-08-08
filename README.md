@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @EmanuelU
+- 👋 Hi, I’m Emanuel
 - 👀 I’m interested in development and Bridge
-- 🌱 I’m currently learning Flutter
+
 
 <!---
 EmanuelU/EmanuelU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
