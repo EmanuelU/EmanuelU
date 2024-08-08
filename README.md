@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Emanuel
 - 👀 I’m interested in development and Bridge
+- Founder of Cuebids.com
 
 
 <!---
