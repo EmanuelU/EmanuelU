@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Emanuel
 - 👀 I’m interested in development and Bridge
 - Founder of Cuebids.com
-- CTO of Digixam Sweden
+- Working on cool stuff for bridge :)
+
 
 <!---
 EmanuelU/EmanuelU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
